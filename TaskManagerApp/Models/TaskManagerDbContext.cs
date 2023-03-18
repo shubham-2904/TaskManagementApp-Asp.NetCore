@@ -8,7 +8,7 @@ namespace TaskManagerApp.Models
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Server=localhost; Database=TaskManagerDB; Trusted_Connection=True; TrustServerCertificate=True");
+            optionsBuilder.UseSqlServer(@"enter your connection string here");
         }
 
         public DbSet<TaskList> Lists { get; set; }
