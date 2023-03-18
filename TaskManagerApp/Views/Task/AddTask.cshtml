@@ -1,0 +1,21 @@
+﻿@{
+}
+
+<div class="centered-content">
+
+    <div class="Create-new-list-container">
+
+        <h1 class="heading">Create New Task</h1> 
+
+        <form action="/@ViewBag.ListId/add-task" method="post">
+            <input class="input is-info" type="hidden" name="ListId" value="@ViewBag.ListId">
+            <input class="input is-info" type="text" placeholder="Task Name You Want to Add" name="Task" >
+
+            <button type="submit" class="button list-group-item-primary has-text-white new-list-button" >
+                Add Task
+            </button>
+        </form>
+
+    </div>
+
+</div>

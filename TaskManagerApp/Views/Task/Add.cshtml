@@ -1,0 +1,24 @@
+﻿
+@{
+}
+
+<div class="centered-content">
+
+    <div class="Create-new-list-container">
+
+        <h1 class="heading">Create New List</h1> 
+        
+        <form asp-action="AddList" asp-controller="Task" method="post">        
+            <input class="input is-info" type="text" placeholder="Your Task List Name" name="ListTitle" >
+
+            <button type="submit" class="button list-group-item-primary has-text-white new-list-button" >
+                Add List
+            </button>
+        </form>
+
+    </div>
+        
+</div>
+
+
+

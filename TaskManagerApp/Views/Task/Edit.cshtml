@@ -1,0 +1,25 @@
+﻿@{
+}
+
+<div class="centered-content">
+
+    <div class="Create-new-list-container">
+
+        <h1 class="heading">Edit List</h1>
+
+        <form asp-action="EditList" asp-controller="Task" method="post">
+
+            <input class="input is-info" type="hidden" placeholder="Enter the list to be edited" name="ListId" value="@ViewBag.Id">
+            <input class="input is-info" value="@ViewBag.Title" type="text" placeholder="Enter the list to be edited" name="ListTitle">
+
+            <button type="submit" class="button list-group-item-primary has-text-white new-list-button">
+                Edit List
+            </button>
+        </form>
+
+    </div>
+
+</div>
+
+
+

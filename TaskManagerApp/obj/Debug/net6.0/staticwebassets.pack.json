@@ -1,0 +1,305 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TaskManagerApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TaskManagerApp.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\Images\\Task1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Task1.jpg"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\Images\\logo.jpg",
+      "PackagePath": "staticwebassets\\Images\\logo.jpg"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\Images\\logo1.png",
+      "PackagePath": "staticwebassets\\Images\\logo1.png"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\Images\\tasking.jpg",
+      "PackagePath": "staticwebassets\\Images\\tasking.jpg"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\css\\Styles.css",
+      "PackagePath": "staticwebassets\\css\\Styles.css"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\css\\Styles.min.css",
+      "PackagePath": "staticwebassets\\css\\Styles.min.css"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\css\\Styles.scss",
+      "PackagePath": "staticwebassets\\css\\Styles.scss"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\css\\main-styles.css",
+      "PackagePath": "staticwebassets\\css\\main-styles.css"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\css\\main-styles.min.css",
+      "PackagePath": "staticwebassets\\css\\main-styles.min.css"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\css\\main-styles.scss",
+      "PackagePath": "staticwebassets\\css\\main-styles.scss"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\Fendahl\\TaskManagerApp\\TaskManagerApp\\TaskManagerApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TaskManagerApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TaskManagerApp.props",
+      "PackagePath": "build\\TaskManagerApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TaskManagerApp.props",
+      "PackagePath": "buildMultiTargeting\\TaskManagerApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TaskManagerApp.props",
+      "PackagePath": "buildTransitive\\TaskManagerApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

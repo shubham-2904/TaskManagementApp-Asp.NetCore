@@ -1,0 +1,194 @@
+﻿@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Nunito:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Satisfy&display=swap");
+html {
+  background-image: url("../Images/Task1.jpg");
+  background-size: 1900px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+html, body {
+  height: 100%;
+}
+
+.session:hover {
+  color: black;
+  text-decoration: none;
+}
+
+.session-title {
+  font-family: "Satisfy";
+  font-size: 24px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+
+.custome-navbar {
+  position: fixed;
+  top: 0;
+}
+
+.centered-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+
+.task-manager-container {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  max-width: 1000px;
+  max-height: 680px;
+}
+
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  background: white;
+  padding: 42px;
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
+}
+
+.task-list-container {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  padding: 42px;
+  width: 400px;
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+
+.title {
+  font-family: "Dancing Script";
+  font-size: 42px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.list-edit-delete {
+  display: flex;
+}
+
+.list-menu {
+  display: flex;
+  flex-direction: column;
+  margin-top: 15px;
+  flex-grow: 1;
+}
+.list-menu .list-menu-item {
+  display: flex;
+  padding: 10px 5px;
+  border-radius: 5px;
+  width: 100%;
+  color: #5f5f5f;
+  margin-bottom: 5px;
+  font-size: 16px;
+  font-weight: bold;
+}
+.list-menu .list-menu-item:hover {
+  background: #f8f8f8;
+}
+.list-menu .list-menu-item.is-active {
+  background: #cff8ef;
+  color: rgb(0, 100, 80);
+}
+
+.fa-pen-to-square, .fa-trash {
+  display: flex;
+  padding: 10px 5px;
+  color: black;
+  margin-top: 4px;
+  margin-left: 4px;
+  margin-right: 4px;
+}
+
+.fa-pen-to-square:hover {
+  color: deepskyblue;
+}
+
+.fa-trash:hover {
+  color: red;
+}
+
+.button {
+  background: #45f69e;
+}
+
+.task-delete {
+  display: flex;
+}
+
+.task-delete > a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.task-delete > a > i {
+  margin-left: 8px;
+}
+
+.task {
+  background: white;
+  padding: 15px 10px;
+  border-radius: 5px;
+  margin-top: 10px;
+  font-size: 14px;
+  width: 100%;
+}
+.task:not(.complete) {
+  cursor: pointer;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+.task:not(.complete):active {
+  transform: scale(0.95);
+}
+.task:not(.complete):hover {
+  box-shadow: 0 0 5px #5f5f5f;
+}
+.task.complete {
+  text-decoration: line-through;
+  opacity: 0.8;
+}
+
+.add-task-btn {
+  margin-top: 10px;
+  background: rgb(0, 100, 80);
+}
+
+.Create-new-list-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  background: white;
+  padding: 50px 50px;
+  border-radius: 5px;
+}
+
+.heading {
+  font-size: 36px;
+  font-weight: 700;
+  margin-bottom: 5px;
+}
+
+.new-list-button {
+  margin-top: 10px;
+}

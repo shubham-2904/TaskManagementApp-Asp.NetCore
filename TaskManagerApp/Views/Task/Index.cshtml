@@ -1,0 +1,91 @@
+﻿@{
+    ViewData["Title"] = "Task Page";
+}
+
+
+@model List<TaskManagerApp.Models.Domain.TaskList>;
+
+<div class="centered-content">
+    <div class="task-manager-container">
+
+        <div class="sidebar has-background-white">
+            <h1 class="title has-text-primary">
+                Lists
+            </h1>
+
+            
+
+            @*<div class="list-menu">
+                <a class="list-menu-item is-active">
+                    <p>list</p>
+                </a>
+                <a class="list-menu-item">
+                    <p>list</p>
+                </a>
+                <a class="list-menu-item">
+                    <p>list</p>
+                </a>
+                <a class="list-menu-item">
+                    <p>list</p>
+                </a>
+            </div>*@
+
+            <div class="list-menu">
+                @foreach(var list in Model)
+                {
+                    <div class="list-edit-delete">
+                        <a class="list-menu-item" name="@list.Id">
+                            <p>@list.ListTitle</p>
+                        </a>
+                    
+                        <a href="/edit-list/@list.Id">
+                            <i class="fa-solid fa-pen-to-square"></i>
+                        </a>
+
+                        <a href="/delete-list/@list.Id">
+                            <i class="fa-sharp fa-solid fa-trash"></i>
+                        </a>
+                    </div>
+                }
+            </div>
+
+
+            <button class="button list-group-item-primary has-text-white" onclick="addList()">
+                + New List
+            </button>
+        </div>
+
+        @*Task Elements*@
+        @* 
+        <div class="task">
+        <p>This is something I have to do. And I will do it</p>
+        </div>
+        <div class="task">
+        <p>This is something I have to do</p>
+        </div>
+        *@
+
+        
+
+        <div class="task-list-container has-background-light">
+            <h1 class="title has-text-primary">
+                Tasks
+            </h1>
+
+            <div id="task-item">
+                Nothing to show
+            </div>
+            <!-- Add task button -->
+            <button class="button add-task-btn list-group-item-primary has-text-white" onclick="addTask()">
+                + Add New Task
+            </button>
+        </div>
+       
+    </div>
+    
+</div>
+
+<script src="~/js/TaskController.js" ></script>
+
+
+
