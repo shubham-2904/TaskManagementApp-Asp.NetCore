@@ -44,7 +44,7 @@ function getList(d) {
         if (xhr.status === 200) {
             // parse the response JSON
             var data = JSON.parse(xhr.responseText);
-            console.log(data.data);
+            //console.log(data.data);
 
             document.getElementById("task-item").innerHTML = "";
 

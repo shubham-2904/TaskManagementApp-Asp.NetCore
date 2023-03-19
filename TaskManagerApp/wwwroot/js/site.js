@@ -5,7 +5,7 @@
 
 // function for adding new list into database
 function addList() {
-    console.log("Adding new list function");
+    //console.log("Adding new list function");
 
     location.href = '/new-list';
 
@@ -13,7 +13,7 @@ function addList() {
 
 // function to calling new task into database
 function addTask() {
-    console.log("hello world")
+    //console.log("hello world")
 
     location.href = `/${sessionStorage.getItem("ListID")}/`;
 }
@@ -25,7 +25,7 @@ window.onload = () => {
     if (sessionStorage.length != 0) {
         let listID = sessionStorage.getItem("ListID");
         
-        console.log("hello world");
+        //console.log("hello world");
 
         for (let i = 0; i < listMenuItems.length; i++) {
 
